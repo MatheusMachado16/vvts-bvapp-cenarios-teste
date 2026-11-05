@@ -10,7 +10,7 @@ Documentacao de cenarios de teste dos requisitos funcionais do meu modulo do BVa
 - **Autor:** Matheus Yan Machado Santos - machado.matheus@academico.ifpb.edu.br
 - **Disciplina:** Verificacao, Validacao e Testes de Software - IFPB, Campus Joao Pessoa
 - **Escopo:** apenas documentacao e organizacao dos arquivos. Nao ha implementacao do sistema, interface nem execucao de testes.
-- **Base:** backlog do OpenProject e planilha de walkthrough dos requisitos. Os cenarios seguem o texto do OpenProject; os pontos em aberto de cada requisito estao registrados em [DUVIDAS.md](DUVIDAS.md) e nenhuma regra foi inventada.
+- **Base:** backlog do OpenProject e planilha de walkthrough dos requisitos. Os cenarios seguem o texto do OpenProject; os pontos em aberto de cada requisito estao registrados em [DUVIDAS.md](DUVIDAS.md).
 
 ## Estrutura
 
