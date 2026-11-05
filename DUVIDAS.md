@@ -1,6 +1,6 @@
 # Duvidas para esclarecimento com os stakeholders
 
-Regras ausentes ou contraditorias encontradas nos requisitos (backlog do OpenProject exportado em 30/10/2026). Nenhuma regra foi inventada nos cenarios: cada ponto abaixo aguarda esclarecimento.
+Regras ausentes ou contraditorias encontradas nos requisitos (backlog do OpenProject). Nenhuma regra foi inventada nos cenarios: cada ponto abaixo aguarda esclarecimento.
 
 **Origem:** `walkthrough` = problema ja registrado na planilha de walkthrough da equipe (aba "Problemas e revisoes"). `adicional` = observacao feita ao escrever os cenarios, ainda nao registrada no walkthrough.
 
